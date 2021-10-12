@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SigmaHT_5
+namespace SigmaHT_5_2
 {
     class Cube
     {
@@ -69,7 +69,7 @@ namespace SigmaHT_5
             {
                 for (int j = 0; j < shadow.GetLength(1); j++)
                 {
-                    output+=shadow[i, j];
+                    output += shadow[i, j];
                 }
                 output += "\n";
             }

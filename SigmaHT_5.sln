@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigmaHT_5", "SigmaHT_5\SigmaHT_5.csproj", "{5A2C227B-31B6-4EAD-8866-C99BBECF9DEB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigmaHT_5_1", "SigmaHT_5\SigmaHT_5_1.csproj", "{5A2C227B-31B6-4EAD-8866-C99BBECF9DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigmaHT_5_2", "Sigma_HT_5_2\SigmaHT_5_2.csproj", "{17EF61B7-9784-4B7C-9881-80AFFF7BB05A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigmaHT_5_3", "SigmaHT_5_3\SigmaHT_5_3.csproj", "{2174A426-D07A-48ED-939F-11500D2402F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5A2C227B-31B6-4EAD-8866-C99BBECF9DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A2C227B-31B6-4EAD-8866-C99BBECF9DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A2C227B-31B6-4EAD-8866-C99BBECF9DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EF61B7-9784-4B7C-9881-80AFFF7BB05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EF61B7-9784-4B7C-9881-80AFFF7BB05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EF61B7-9784-4B7C-9881-80AFFF7BB05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EF61B7-9784-4B7C-9881-80AFFF7BB05A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2174A426-D07A-48ED-939F-11500D2402F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2174A426-D07A-48ED-939F-11500D2402F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2174A426-D07A-48ED-939F-11500D2402F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2174A426-D07A-48ED-939F-11500D2402F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

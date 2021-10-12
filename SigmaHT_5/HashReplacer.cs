@@ -2,7 +2,7 @@
 using System.Linq;
 using System.IO;
 
-namespace SigmaHT_5
+namespace SigmaHT_5_1
 {
     class HashReplacer
     {
